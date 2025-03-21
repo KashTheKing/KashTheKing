@@ -11,7 +11,7 @@
 </a>
 <br>
 <a href="https://twitter.com/kashtheking_x" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-@kashtheking_x-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Profile">
+  <img src="https://img.shields.io/badge/Twitter-@kashtheking__x-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Profile">
 </a>
 <br>
 <a href="https://kashtheking.com/" target="_blank">
