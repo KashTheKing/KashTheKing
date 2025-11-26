@@ -1,6 +1,6 @@
 <a href="https://github.com/KashTheKing" target="_blank"></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=200&color=55FF55&multiline=true&width=600&height=72&lines=local+Players+=+game%3AGetService(%22Players%22)%3B+Players.PlayerAdded%3AConnect(subscribeToKash))___________________________________________________________________________________________](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=200&color=55FF55&multiline=true&width=600&height=72&lines=local+Players+=+game%3AGetService(%22Players%22)%3B+Players.PlayerAdded%3AConnect(subscribeToKash))](https://git.io/typing-svg)
 
 ## 🛠️ **Technical Knowledge**
 ![Lua](https://img.shields.io/badge/-Luau-05122A?style=flat&logo=lua)
