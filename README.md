@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=200&color=55FF55&multiline=true&width=600&height=72&lines=local+Players+=+game%3AGetService(%22Players%22)%3B+Players.PlayerAdded%3AConnect(subscribeToKash))](https://git.io/typing-svg)
 
+[![My Avatar](https://tr.rbxcdn.com/30DAY-Avatar-8D301B5D1CB0F3BE79A8CBD67E5E822B-Png/720/720/Avatar/Png/noFilter)](https://www.roblox.com/users/117445502/profile)
+
 ## 🛠️ **Technical Knowledge**
 ![Lua](https://img.shields.io/badge/-Luau-05122A?style=flat&logo=lua)
 ![Roblox](https://img.shields.io/badge/-Roblox-05122A?style=flat&logo=roblox)
