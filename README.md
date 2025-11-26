@@ -1,6 +1,6 @@
 <a href="https://github.com/KashTheKing" target="_blank"></a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=KashTheKing;YouTuber/Game+Designer/Teacher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=KashTheKing+-+YouTuber/Game+Designer/Teacher)](https://git.io/typing-svg)
 
 ## 🛠️ **Technical Knowledge**
 ![Lua](https://img.shields.io/badge/-Luau-05122A?style=flat&logo=lua)
