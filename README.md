@@ -8,10 +8,3 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello&logoColor=0079BF)
-
-## 📊 **GitHub Stats**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-alpha-nine-75.vercel.app/api?username=kashtheking&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-alpha-nine-75.vercel.app/api/top-langs/?username=kashtheking&layout=compact&langs_count=8&theme=dark"/>
-</div>
