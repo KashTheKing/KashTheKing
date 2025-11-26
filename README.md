@@ -15,16 +15,3 @@
   <img height="180em" src="https://github-readme-stats-alpha-nine-75.vercel.app/api?username=kashtheking&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-alpha-nine-75.vercel.app/api/top-langs/?username=kashtheking&layout=compact&langs_count=8&theme=dark"/>
 </div>
-
-<a href="https://www.youtube.com/@KashTheKingYT" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-KashTheKingYT-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel">
-</a>
-<br>
-<a href="https://www.roblox.com/users/117445502/profile" target="_blank">
-  <img src="https://img.shields.io/badge/Roblox-KashTheKingYT-black?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Profile">
-</a>
-<br>
-<a href="https://twitter.com/kashtheking_x" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-kashtheking__x-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Profile">
-</a>
-<br>
